@@ -67,7 +67,7 @@
 | [MiniLLM: Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2306.08543) | 2024 | ICLR               |
 | [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685) | 2022 | ICLR               |
 | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | 2023 | NeurIPS            |
-| [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597#:~:text=This paper proposes BLIP-2%2C a generic and efficient,frozen pre-trained image encoders and frozen large language) | 2023 | ICML               |
+| [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597) | 2023 | ICML               |
 
 
 
@@ -76,8 +76,8 @@
 | Paper Title                                                  | Year | Conference/Journal |
 | ------------------------------------------------------------ | ---- | ------------------ |
 | [Distance-Based Image Classification: Generalizing to New Classes at Near-Zero Cost](https://ieeexplore.ieee.org/document/6517188) | 2013 | TPAMI              |
-| [Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning](https://arxiv.org/abs/2201.03529#:~:text=We propose a method%2C Head-to-Toe probing (Head2Toe)%2C that,to train a classification head for the target-domain.) | 2022 | ICML               |
-| [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/abs/2212.03220#:~:text=We propose visual query tuning (VQT)%2C a simple,approach to aggregate intermediate features of Vision Transformers.) | 2023 | CVPR               |
+| [Head2Toe: Utilizing Intermediate Representations for Better Transfer Learning](https://arxiv.org/pdf/2201.03529) | 2022 | ICML               |
+| [Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning](https://arxiv.org/pdf/2212.03220) | 2023 | CVPR               |
 | [Merging Models with Fisher-Weighted Averaging](https://proceedings.neurips.cc/paper_files/paper/2022/file/70c26937fbf3d4600b69a129031b66ec-Paper-Conference.pdf) | 2022 | NeurIPS            |
 | [Model soups: averaging weights of multiple fine-tuned models improves accuracy without increasing inference time](https://arxiv.org/abs/2203.05482) | 2022 | ICML               |
 | [Model Fusion via Optimal Transport](https://arxiv.org/abs/1910.05653) | 2020 | NeurIPS            |
