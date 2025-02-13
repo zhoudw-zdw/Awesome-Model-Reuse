@@ -51,7 +51,7 @@ Contributions welcome:
 | [Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space](https://arxiv.org/abs/2207.03036) | 2022 |        ECCV        |
 | [Transferability Estimation Based On Principal Gradient Expectation](https://arxiv.org/pdf/2211.16299) | 2022 |       arXiv        |
 | [LogME: Practical Assessment of Pre-trained Models for Transfer Learning](https://arxiv.org/pdf/2102.11005) | 2021 |        ICML        |
-| [Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs](https://jmlr.org/papers/volume23/21-1251/21-1251.pdf#:~:text=Besides a new paradigm of exploiting PTM hubs%2C,and a new algorithm for multiple PTM tuning.) | 2022 |        JMLR        |
+| [Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs](https://jmlr.org/papers/volume23/21-1251/21-1251.pdf) | 2022 |        JMLR        |
 | [PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks](https://arxiv.org/pdf/2203.05126) | 2022 |        ECCV        |
 | [Ranking Neural Checkpoints](https://arxiv.org/pdf/2011.11200) | 2021 |        CVPR        |
 | [A linearized framework and a new benchmark for model selection for fine-tuning](https://arxiv.org/pdf/2102.00084) | 2021 |       arXiv        |
