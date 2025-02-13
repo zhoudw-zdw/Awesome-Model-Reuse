@@ -49,7 +49,7 @@ Contributions welcome:
 | [LOVM: Language-Only Vision Model Selection](https://papers.nips.cc/paper_files/paper/2023/file/68c33c4e6fc97f7b31c964dc83303a28-Paper-Datasets_and_Benchmarks.pdf) | 2023 |      NeurIPS       |
 | [Transferability Estimation Using Bhattacharyya Class Separability](https://openaccess.thecvf.com/content/CVPR2022/papers/Pandy_Transferability_Estimation_Using_Bhattacharyya_Class_Separability_CVPR_2022_paper.pdf) | 2022 |        CVPR        |
 | [Not All Models Are Equal: Predicting Model Transferability in a Self-challenging Fisher Space](https://arxiv.org/abs/2207.03036) | 2022 |        ECCV        |
-| [Transferability Estimation Based On Principal Gradient Expectation](https://arxiv.org/abs/2211.16299#:~:text=Building upon them%2C we propose Principal Gradient Expectation,a simple yet effective method for assessing transferability.) | 2022 |       arXiv        |
+| [Transferability Estimation Based On Principal Gradient Expectation](https://arxiv.org/pdf/2211.16299) | 2022 |       arXiv        |
 | [LogME: Practical Assessment of Pre-trained Models for Transfer Learning](https://arxiv.org/pdf/2102.11005) | 2021 |        ICML        |
 | [Ranking and Tuning Pre-trained Models: A New Paradigm for Exploiting Model Hubs](https://jmlr.org/papers/volume23/21-1251/21-1251.pdf#:~:text=Besides a new paradigm of exploiting PTM hubs%2C,and a new algorithm for multiple PTM tuning.) | 2022 |        JMLR        |
 | [PACTran: PAC-Bayesian Metrics for Estimating the Transferability of Pretrained Models to Classification Tasks](https://arxiv.org/pdf/2203.05126) | 2022 |        ECCV        |
