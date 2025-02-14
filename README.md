@@ -4,24 +4,17 @@
 
 [![Awesome](https://camo.githubusercontent.com/3418ba3754faddfb88c5cbdc94c31ad670fc693c8caa59bc2806c9836acc04e4/68747470733a2f2f617765736f6d652e72652f62616467652e737667)](https://github.com/EnnengYang/Awesome-Model-Merging-Methods-Theories-Applications/blob/main) [![img](https://camo.githubusercontent.com/6b5f5f056bae0af6154a1f49a551df65b99093166facbf55e14c520ae435346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e747269627574696f6e732d57656c636f6d652d323738656135)](https://camo.githubusercontent.com/6b5f5f056bae0af6154a1f49a551df65b99093166facbf55e14c520ae435346d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e747269627574696f6e732d57656c636f6d652d323738656135)
 
-A comprehensive list of papers about ==Paper arXiv==
+A comprehensive list of papers about model reuse.
 
 ------
 
-Important
+Contributions:
 
-Contributions welcome:
+- If you have a relevant paper not included in the library, please raise new Pull requests.
 
-- If you have a relevant paper not included in the library, or have any clarification about the content of the ==Paper arXiv==, please [contact us](https://github.com/zhoudw-zdw)! Or, you may also consider submitting 'Pull requests' directly, thank you!
-- If you think your paper is more suitable for another category, please [contact us](https://github.com/zhoudw-zdw) or submit 'Pull requests'. If your paper is accepted, you may consider updating the relevant information. Thank you!
 
 ------
 
-## 💥 News 💥
-
-
-
-- 🔥🔥🔥 To be updated ...
 
 
 
@@ -86,7 +79,6 @@ Contributions welcome:
 | ------------------------------------------------------------ | :--: | :----------------: |
 | [Model Reuse with Reduced Kernel Mean Embedding Specification](https://arxiv.org/pdf/2001.07135) | 2023 |        TKDE        |
 | [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) | 2023 |        ICLR        |
-| [Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA](https://arxiv.org/abs/2304.06027) | 2023 |       arXiv        |
 | [Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA](https://arxiv.org/abs/2304.06027) | 2023 |       arXiv        |
 | [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) | 2023 |        ICLR        |
 | [What Does a Platypus Look Like? Generating Customized Prompts for Zero-Shot Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf) | 2023 |        ICCV        |
