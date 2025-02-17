@@ -78,7 +78,6 @@ Contributions:
 | Paper Title                                                  | Year | Conference/Journal |
 | ------------------------------------------------------------ | :--: | :----------------: |
 | [Model Reuse with Reduced Kernel Mean Embedding Specification](https://arxiv.org/pdf/2001.07135) | 2023 |        TKDE        |
-| [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) | 2023 |        ICLR        |
 | [Continual Diffusion: Continual Customization of Text-to-Image Diffusion with C-LoRA](https://arxiv.org/abs/2304.06027) | 2023 |       arXiv        |
 | [Visual Classification via Description from Large Language Models](https://arxiv.org/abs/2210.07183) | 2023 |        ICLR        |
 | [What Does a Platypus Look Like? Generating Customized Prompts for Zero-Shot Image Classification](https://openaccess.thecvf.com/content/ICCV2023/papers/Pratt_What_Does_a_Platypus_Look_Like_Generating_Customized_Prompts_for_ICCV_2023_paper.pdf) | 2023 |        ICCV        |
